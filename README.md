@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy for "HIRAGANA STUDY" by aam.development
 
 This application does not collect, store, or share any personal data.
 
