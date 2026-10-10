@@ -1,3 +1,9 @@
+<style>
+.markdown-body > h1:first-child {
+  display: none;
+}
+</style>
+
 # Privacy Policy for "HIRAGANA STUDY" by aam.development
 
 This application does not collect, store, or share any personal data.
